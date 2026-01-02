@@ -1,7 +1,5 @@
 ## Hi there, I'm Benson Musonda
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bensonmusonda)
-
 
 <!--
 **Bensonmusonda/Bensonmusonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bensonmusonda)
