@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=Bensonmusonda&theme=dark&cache_buster=1)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Bensonmusonda&theme=dark&cache_buster=2)
 
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Bensonmusonda&layout=compact&theme=dark)
