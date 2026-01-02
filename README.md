@@ -1,6 +1,6 @@
 ## Hi there, I'm Benson Musonda
 
-[![GitHub Streak](streak-stats.demolab.com)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bensonmusonda)
 
 
 <!--
