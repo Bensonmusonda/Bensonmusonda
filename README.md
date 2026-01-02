@@ -1,5 +1,5 @@
 ## Hi there, I'm Benson Musonda
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bensonmusonda)](https://git.io/streak-stats)
 <!--
 **Bensonmusonda/Bensonmusonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
