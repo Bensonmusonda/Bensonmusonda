@@ -1,6 +1,6 @@
 ## Hi there, I'm Benson Musonda
 
-[![GitHub Streak](github-readme-streak-stats.herokuapp.com)](git.io)
+[[![GitHub Streak](github-readme-streak-stats.herokuapp.com)](git.io)](https://streak-stats.demolab.com?user=MatinT-SA&theme=react&layout=compact)
 <!--
 **Bensonmusonda/Bensonmusonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
