@@ -1,4 +1,4 @@
-## Hi there, I'm Benson Musonda
+## Hi there, I'm Benson Musonda.
 
 
 <!--
