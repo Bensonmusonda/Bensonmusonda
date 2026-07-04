@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Streak](https://demolab.com)](https://github.com)
+![Stats](https://github-contribution-card.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight
 
 
 
