@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Stats](https://github-contribution-card.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight
+![Stats](https://github-contribution-card.vercel.app/api?username=Bensonmusonda&theme=tokyonight)
 
 
 
