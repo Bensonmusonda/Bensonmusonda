@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=Bensonmusonda&theme=tokyonight)
-
 
 
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Bensonmusonda&layout=compact&theme=dark)
+
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=Bensonmusonda&theme=tokyonight)
