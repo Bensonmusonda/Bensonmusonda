@@ -2,4 +2,4 @@
 <h1>Hi there, Benson Musonda here</h1>
 </div>
 
-[![GitFut Stats](https://gitfut.com/Bensonmusonda?country.png)](https://gitfut.com/Bensonmusonda?country=zm)
+[![GitFut Stats](https://gitfut.com/Bensonmusonda?country=zm.png)](https://gitfut.com/Bensonmusonda?country=zm)
