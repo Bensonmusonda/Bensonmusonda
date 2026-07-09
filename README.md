@@ -3,7 +3,7 @@
   <br />
   <br />
   <br />
-  <font size="24"><b>404</b></font>
+  <font size="72"><b>404</b></font>
   <br />
   <br />
   <br />
