@@ -2,9 +2,12 @@
   <br />
   <br />
   <br />
-  <br />
-  <font size="72"><b>404</b></font>
-  <br />
+</p>
+
+# <p align="center">404</p>
+## <p align="center">PROFILE NOT FOUND</p>
+
+<p align="center">
   <br />
   <br />
   <br />
